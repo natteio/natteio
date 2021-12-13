@@ -8,3 +8,5 @@
 - ❤️ Loves video games, movies, tv shows, anime.
 - 🎯 Software Engineer is the end game.
 
+<br/><br/>
+# 🗃️ Technologies Experienced
