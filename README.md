@@ -10,3 +10,21 @@
 
 # 🗃️ Technologies Experienced
 
+<br />
+<div align="center">
+  <span>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/mysql.png?raw=true"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/git.png?raw=true"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/python.png?raw=true"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/java.png?raw=true"/>
+  </span>
+</div>
