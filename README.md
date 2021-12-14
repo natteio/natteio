@@ -21,10 +21,11 @@
   </span>
   &nbsp;&nbsp;
   <span>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/java.png?raw=true"/>
+  </span>
+  <span>
     <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/python.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
-    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/java.png?raw=true"/>
-  </span>
+
 </div>
