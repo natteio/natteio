@@ -1,5 +1,6 @@
-### Hello! Call me ana 👋
-## I'm Nathanael Neri, call me Ana
+## Hello! I'm Nathanael Neri, but call me natte 👋
+### Currently studying Advanced Diploma in Information Technology in AIAS.
+### Graduated Bachelors of Science in Information Technology in MSU-IIT.
 
 # about me
 
