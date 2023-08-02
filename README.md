@@ -4,9 +4,9 @@
 
 # about me
 
-- 🤵‍ I am a passionate and eager programmer with limited experience but a strong desire to learn and grow.
-- 🧠 I am a fast learner and excited to take on challenges and contribute to innovative projects.
-- ❤️ I am highly detail-oriented and take great care in my work to ensure accuracy and precision.
+- 🤵‍ Passionate and eager programmer with limited experience but a strong desire to learn and grow.
+- 🧠 Fast-learner and excited to take on challenges and contribute to innovative projects.
+- ❤️ Highly detail-oriented and take great care to ensure accuracy and precision.
 - 🎯 To become a Data Engineer/Software Engineer/Data Administrator
 
 # 🗃️ Technologies Experienced
