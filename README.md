@@ -1,12 +1,12 @@
 ### Hello! Call me ana 👋
-## I'm Nathanael Neri, commonly called as nat, prefferedly ana.
+## I'm Nathanael Neri, call me Ana
 
 # about me
 
-- 🤵‍ An aspiring developer.
-- 🧠 Currently collecting knowledge in web development.
-- ❤️ Loves video games, movies, tv shows, anime.
-- 🎯 Software Engineer is the end game.
+- 🤵‍ I am a passionate and eager programmer with limited experience but a strong desire to learn and grow.
+- 🧠 I am a fast learner and excited to take on challenges and contribute to innovative projects.
+- ❤️ I am highly detail-oriented and take great care in my work to ensure accuracy and precision.
+- 🎯 To become a Data Engineer/Software Engineer/Data Administrator
 
 # 🗃️ Technologies Experienced
 
