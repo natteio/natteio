@@ -14,20 +14,15 @@
 <br />
 <div align="center">
   <span>
-    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/mysql.png?raw=true"/>
-  </span>
-  &nbsp;&nbsp;
-  <span>
     <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/git.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
+  <br />
   <span>
-    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/java.png?raw=true"/>
+    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/mysql.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
-    <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/codeigniter.png?raw=true"/>
-  </span>
+  &nbsp;&nbsp;
   &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/python.png?raw=true"/>
@@ -42,7 +37,7 @@
     <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/email.png?raw=true"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a align="left" href="https://www.linkedin.com/in/nrnopq/">
+  <a align="left" href="https://www.linkedin.com/in/natteio/">
     <img height="75" src="https://github.com/nrnopq/nrnopq/blob/main/images/linkedIn.png?raw=true"/>
   </a>
 </div>
