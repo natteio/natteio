@@ -1,5 +1,5 @@
 ## Hello! I'm Nathanael Neri, but call me natte 👋
-Link: natteoio.github.io
+Link: natteio.github.io
 
 # about me
 
